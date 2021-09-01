@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data science,ML,AI
 - 🌱 I’m currently learning React Native and Data Science
 - 💞️ I’m looking to collaborate on React Native,Flask,ML projects
-- 📫 How to reach me ...
+- 📫 How to reach me ... https://www.instagram.com/kapilchaudhary9470/
 
 <!---
 chaudharykapil/chaudharykapil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
