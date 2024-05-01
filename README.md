@@ -37,9 +37,7 @@ Software Engineer
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src = "https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" width="36" height="36" alt="React Native"/></a>
 <a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank" rel="noreferrer"><img src = "https://cdn.freebiesupply.com/logos/large/2x/flask-logo-png-transparent.png" width="36" height="36" alt="Flask"/></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src = "https://cdn.freebiesupply.com/logos/large/2x/django-logo-png-transparent.png" width="36" height="36" alt="Django"/></a>
-
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src = "https://www.vhv.rs/dpng/d/183-1834544_google-flutter-hd-png-download.png" width="36" height="36" alt="Flutter"/></a>
-
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src = "https://freebiehive.com/wp-content/uploads/2022/10/Google-Flutter-Icon-PNG.jpg" width="36" height="36" alt="Flutter"/></a>
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src = "https://image.pngaaa.com/400/23400-middle.png" width="36" height="36" alt="Dart"/></a>
 
 
